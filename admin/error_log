@@ -1,0 +1,18 @@
+[19-Apr-2019 01:06:35 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on boolean in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 132
+[19-Apr-2019 01:07:18 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on boolean in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 132
+[19-Apr-2019 01:08:11 Asia/Dhaka] PHP Fatal error:  Call to a member function rows() on boolean in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 132
+[19-Apr-2019 01:09:11 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 132
+[19-Apr-2019 01:09:48 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on boolean in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 132
+[30-May-2019 00:27:18 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home1/mrrider/public_html/admin/application/models/Driver_m.php on line 37
+[30-May-2019 00:27:21 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home1/mrrider/public_html/admin/application/models/Driver_m.php on line 37
+[30-May-2019 00:27:24 Asia/Dhaka] PHP Fatal error:  Call to a member function result() on boolean in /home1/mrrider/public_html/admin/application/models/Driver_m.php on line 37
+[31-May-2019 12:48:01 Asia/Dhaka] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 288
+[03-Aug-2019 00:03:57 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on boolean in /home1/mrrider/public_html/admin/application/models/DataPendaftarDriver_m.php on line 153
+[03-Aug-2019 00:04:06 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on boolean in /home1/mrrider/public_html/admin/application/models/DataPendaftarDriver_m.php on line 153
+[03-Aug-2019 00:58:40 Asia/Dhaka] PHP Fatal error:  Call to undefined function form_open_multipart() in /home1/mrrider/public_html/admin/application/views/edit_driver_photo.php on line 165
+[03-Aug-2019 00:59:52 Asia/Dhaka] PHP Fatal error:  Call to undefined function form_open_multipart() in /home1/mrrider/public_html/admin/application/views/edit_driver_photo.php on line 165
+[03-Aug-2019 01:01:25 Asia/Dhaka] PHP Fatal error:  Call to undefined function form_open_multipart() in /home1/mrrider/public_html/admin/application/views/edit_driver_photo.php on line 165
+[05-Aug-2019 09:46:51 Asia/Dhaka] PHP Fatal error:  Call to undefined function pruint_r() in /home1/mrrider/public_html/admin/application/controllers/Listdriver.php on line 449
+[27-Feb-2020 08:36:01 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on boolean in /home/mrrider/public_html/admin/application/controllers/Login.php on line 34
+[27-Feb-2020 09:57:13 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on boolean in /home/mrrider/public_html/admin/application/controllers/Login.php on line 34
+[27-Feb-2020 09:57:27 Asia/Dhaka] PHP Fatal error:  Call to a member function result_array() on boolean in /home/mrrider/public_html/admin/application/controllers/Login.php on line 34
